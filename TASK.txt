@@ -1,0 +1,13 @@
+You are given a project that recreates the popular online game, "Wordle".
+
+You are to modify this codebase so that it is a "memory matching game". The specifications are as follows:
+
+1. Memory matching game should initially be a 4x4 grid of blank tiles
+2. When clicked, a tile should flip over, revealing a letter (ie "A", "B", etc...)
+3. When a second tile is clicked, it should also flip over, revealing its letter.
+4. If the letters match, both tiles remain flipped over
+5. If the letters do not match, both tiles flip back over to be blank again
+6. There should be a total of 8 unique letters, such that there is a pair of each letter
+7. Letters should be randomly assigned to each tile
+
+This project is interactive, as soon as you save changes, they will appear updated in the web browser.
